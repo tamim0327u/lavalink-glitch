@@ -1,10 +1,10 @@
 server: # REST and WS server
-  port: 3000
+  port: 443
   address: 0.0.0.0
 lavalink:
   server:
-    password: youshallnotpass
-    sources:
+    password: hnx999
+    sources: true
       youtube: true
       bandcamp: true
       soundcloud: true
